@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+   New Perspectives on XML
+   Tutorial 3
+   Case Problem 4
+
+   Map Finds For You schema
+   Author:  
+   Date:     
+
+   Filename:         orders.xsd
+   Supporting Files: orders.xml
+-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="customers"/>
+    <xs:attribute name="custID" type="xs:ID" use="required"/>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="customer" type="" maxOccurs="1"/>
+                    <xs:complexType>
+                        <xs:element name="name" type="xs:string"/>
+                        <xs:attribute name="title" type="xs:string" fixed="fixed"/>
+                        
+                        <xs:element name="address" type="xs:string"/>
+                        <xs:element name="phone" type="xs:string"/>
+                        <xs:element name="email" type="xs:string"/>
+                    </xs:complexType>
+            </xs:sequence>
+                        <xs:element name="orders"/>
+                    <xs:complexType>
+                        <xs:element name="order"/>
+                        <xs:attribute name="orderID" type="xs:ID" use="required"/>
+                        <xs:attribute name="orderBy" type="xs:ID" use="required"/>
+                            <xs:complexType>
+                                <xs:element name="orderDate" type="xs:string"/>
+                                <xs:element name="items"/>        
+                                    <xs:complexType>
+                                            <xs:element name="item" type="xs:string"/>
+                                            <xs:attribute name="itemNumber" type="xs:integer"/>
+                                                <xs:complexType>
+                                                    <xs:element name="itemPrice" type="xs:string"/>
+                                                    <xs:attribute name="saleItem" type="xs:string" fixed="fixed"/>
+                                                    <xs:element name="itemQty" type="xs:string"/>
+                                                </xs:complexType>
+                                    </xs:complexType>
+                            </xs:complexType>
+                    </xs:complexType>
+        </xs:complexType>
+</xs:schema>
