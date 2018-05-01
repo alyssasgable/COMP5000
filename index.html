@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <link rel="stylesheet" type="text/css" href="style.css">
+   <title>Alyssa Gable COMP 5000</title>
+ </head>
+
+ <body>
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+     <script src="src/Chart.bundle.js"></script>
+     <script>
+        $(document).ready(function(){
+            $("a").on('click', function(event) {
+
+                if (this.hash !== "") {
+                    event.preventDefault();
+                    var hash = this.hash;
+
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+
+        window.location.hash = hash;
+      });
+    }
+  });
+});
+     </script>
+
+
+     <div id="nav">
+     <ul>
+         <li><a href="#home">Home</a></li>
+         <li><a href="#facts">Facts</a></li>
+         <li><a href="#survey">Survey</a></li>
+         <li><a href="#surveyResults">Survey Results</a></li>
+         <li><a href="#sources">Sources</a></li>
+     </ul>
+     </div>
+
+     <br />
+     <div id="home" >
+         <a id="home" class="smooth"></a>
+         <h1 align="right">Guns In America</h1>
+             <video width="640" height="360" autoplay="yes" controls="play pause">
+                 <source src="casestudyrecording.mov"/>
+                     Your browser does not support the video tag.
+             </video>
+         <h3>The United States has a problem with gun violence.</h3>
+         <div class="typewriter">
+             <h2>And as of late it has been the focal point of mainstream news.</h2>
+         </div>
+            <br>
+            <h2>This project was created with JSP, HTML, CSS, and Javascript. - Alyssa Gable</h2>
+     </div>
+
+ <div id="facts">
+   <a id="facts" class="smooth"></a>
+      <h1>Facts</h1>
+      <div class="typewriter">
+          <h3>An analysis of gun homicide rates in developed countries those considered 'high income' by the World Bank found that the
+            United States accounted for 46 percent of the population but 82 percent of the gun deaths.</h3>
+          <a href="https://everytownresearch.org/gun-violence-by-the-numbers/#foot_note_7">Source</a>
+      </div>
+      <br/>
+      <br/>
+      <canvas id="bar-chart"width="300" height="100"></canvas>
+   <script>
+$(function() {
+   new Chart(document.getElementById("bar-chart"), {
+  type: "bar",
+  data: {
+    labels: ["United States","Canada","Portugal","Ireland","Italy","Belgium", "Finland", "France", "Netherlands",
+              "Denmark", "Sweden", "Slovokia", "Austria", "New Zealand", "Australia", "Spain", "Czech Republic", "Hungary", "Germany",
+              "United Kingdom", "Norway", "Japan", "Republic of Korea"],
+    datasets: [
+      {
+        label: "Gun murders per 100,00 residents",
+        backgroundColor: [
+          "#CD4E18",
+          "#8e5ea2",
+          "#3cba9f",
+          "#e8c3b9",
+          "#c45850",
+          "#000000",
+          "#41D0B2",
+          "#F6F6F8",
+          "#FFEE70",
+          "#44BF7B",
+          "#FFFFFF",
+          "#802202",
+          "#691B11",
+          "#FFEA0D",
+          "#C6DBCD",
+          "#D17640",
+          "#AD4417",
+          "#53DFAD",
+          "#C896B4",
+          "#e8c3b9",
+          "#c45850",
+          "#000000",
+          "#41D0B2"
+        ],
+        data: [3.61,0.50,0.48,0.35,0.35,0.33, 0.26, 0.20, 0.20, 0.20, 0.19, 0.19, 0.18, 0.16, 0.16,
+                0.15, 0.12, 0.10, 0.06, 0.04, 0.01, 0.01]
+      }
+    ]
+  },
+  options: {
+    legend: { display: false },
+    title: {
+      display: true,
+      text: "GUN MURDERS PER 100,000 RESIDENTS"
+    },
+    layout: {
+      padding: {
+        left: 20
+      }
+    },
+    scales: {
+      xAxes: [{
+        ticks: {
+          autoSkip: false
+        }
+      }]
+    }
+  }
+});
+})
+
+</script>
+<br/>
+<div class="typewriter">
+    <h3>Nearly two-thirds (62 percent) of firearm deaths in the U.S. are suicides.</h3>
+    <a href="https://everytownresearch.org/gun-violence-by-the-numbers/#foot_note_4">Source</a>
+</div>
+<canvas id="donut-chart"width="300" height="100"></canvas>
+<script>
+$(function() {
+  new Chart(document.getElementById("donut-chart"), {
+type: 'doughnut',
+data: {
+ labels: ["Suicide", "Homicide", "Unintentional", "Undetermined"],
+ datasets: [
+   {
+     label: "Deaths",
+     backgroundColor: ["#D33F0C", "#C3A4BE","#384C5D","#E1B0BC"],
+     data: [21637,12726,500,279]
+   }
+ ]
+},
+options: {
+ title: {
+   display: true,
+   text: 'Gun Deaths in America By Intent'
+ }
+}
+});
+})
+ </script>
+ <br/>
+ <div class="typewriter">
+     <h3></h3>
+     <a href="https://everytownresearch.org/gun-violence-by-the-numbers/#foot_note_4">Source</a>
+ </div>
+
+ <div class="typewriter">
+     <h3>Gun Incidents in April 2018</h3>
+     <a href="http://www.gunviolencearchive.org/">Source</a>
+ </div>
+ <canvas id="line-graph"width="300" height="150"></canvas>
+ <script>
+ $(function() {
+
+  var dayz = [];
+  var deaths = [];
+  var bodyCount = 0;
+  var request = new XMLHttpRequest();
+
+request.open("GET", "gundeaths2018.json");
+request.send(null);
+request.onreadystatechange = function() {
+  if ( request.readyState === 4 && request.status === 200 ) {
+    var gundeaths2018 = JSON.parse(request.responseText);
+    for(var i = 0; i < gundeaths2018.length; i++) {
+      var obj = gundeaths2018[i];
+      dayz.push(obj["Incident Date"]);
+      deaths.push(obj["# Killed"] + obj["# Injured"]);
+
+  }
+  console.log(dayz)
+  console.log(deaths)
+  new Chart(document.getElementById("line-graph"), {
+  type: 'line',
+  data: {
+    labels: dayz,
+    datasets: [{
+        data: deaths,
+        label: "",
+        borderColor: "#ADBB86",
+        fill: false
+      }
+    ]
+  },
+  options: {
+    title: {
+      display: false,
+      text: ''
+    },
+    layout: {
+      padding: {
+        left: 50,
+        right: 50
+      }
+    }
+  }
+});
+}
+}
+})
+  </script>
+ </div>
+<br/>
+<br/>
+<br/>
+<h1>Survey</h1>
+ <div id="survey">
+   <a id="survey" class="smooth"></a>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdg8IkmhRf-AjCtrUIre4UBPQPGbW9R1VtijZykc5H06v2Cmg/viewform?embedded=true" width="100%" height="620" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+ </div>
+
+ <br/>
+ <br/>
+
+ <h1>Survey Results</h1>
+ <br/>
+ <h2>This case study will collect data from various Auburn University students to show what the general opinion of gun debate is on campus.</h2>
+ <a href="http://news.gallup.com/poll/1645/guns.aspx">Source</a>
+ <div align = "center" id="surveyResults">
+   <a id="surveyResults" class="smooth"></a>
+   <img class="mySlides" src="./img/q1.png">
+   <img class="mySlides" src="./img/q2.png">
+   <img class="mySlides" src="./img/q3.png">
+   <img class="mySlides" src="./img/q4.png">
+   <img class="mySlides" src="./img/q5.png">
+   <img class="mySlides" src="./img/q6.png">
+   <img class="mySlides" src="./img/q7.png">
+   <img class="mySlides" src="./img/q8.png">
+   <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+   <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
+
+   <script>
+   var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+    showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    if (n > x.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = x.length} ;
+    for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+    }
+    x[slideIndex-1].style.display = "block";
+}
+   </script>
+ </div>
+<br/>
+<br/>
+ <div id="sources">
+   <h1>Sources</h1>
+   <br>
+    <a id="sources" class="smooth"></a>
+    <br>
+      <div class="wrapper">
+      <a href="http://www.gunviolencearchive.org/">Gun Violence Archive</a>
+      <br>
+      <a href="https://everytownresearch.org/gun-violence-by-the-numbers/#foot_note_7">Every Town Research</a>
+      <br>
+      <a href="https://news.vice.com/en_us">Vice News</a>
+      <br>
+      <a href="http://news.gallup.com/poll/1645/guns.aspx">Gallup</a>
+      <br>
+    </div>
+  </div>
+ </body>
+ </html>
