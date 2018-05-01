@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Alyssa Gable 2018 teams.xml -->
+<teams xmlns:t = "http://www.w3.org/TR/teams/">
+    <t:team tid = "Cool">
+        <t:title>Mustang</t:title>
+        <t:description>A very cool car.</t:description>
+        <t:series>500</t:series>
+    </t:team>
+    <t:team tid = "Boring">
+         <t:title>Nissan</t:title>
+         <t:description>A very boring car.</t:description>
+         <t:series>200</t:series>
+     </t:team>
+</teams>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!-- Alyssa Gable 2018 souths.xml -->
+<!DOCTYPE racing [
+
+<!ENTITY % teams SYSTEM "teams.xml">
+<!ENTITY % cars SYSTEM "cars.xml">
+
+%teams;
+    <!ELEMENT teams (team)>
+    <!ELEMENT team (title, description, series)+>
+    <!ATTLIST team tid ID #REQUIRED>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+    <!ELEMENT series (#PCDATA)>
+
+%cars;
+    <!ELEMENT cars (car)>
+    <!ELEMENT car (title, model, driver)+>
+    <!ATTLIST car cid ID #REQUIRED>
+    <!ELEMENT model (#PCDATA)>
+    <!ELEMENT driver (#PCDATA)>
+]>
+<racing></racing>

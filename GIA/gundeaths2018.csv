@@ -1,0 +1,501 @@
+"Incident Date",State,"City Or County",Address,"# Killed","# Injured",Operations
+"April 30, 2018",Colorado,Denver,"5800 Tower Rd",1,0,N/A
+"April 30, 2018",Mississippi,Jackson,"747 Wingfield St",1,1,N/A
+"April 30, 2018",Indiana,Hobart,"1200 block of West 7th Pl",2,0,N/A
+"April 30, 2018",Arizona,"Casa Grande","615 E. Judi",2,1,N/A
+"April 30, 2018",Louisiana,"Bienville (county)",N/A,1,0,N/A
+"April 30, 2018",Ohio,Columbus,"4300 block of Walford St",1,0,N/A
+"April 30, 2018",Ohio,Cleveland,"W 149th St and Puritas Ave",1,0,N/A
+"April 30, 2018",California,"Los Angeles","3600 block of W 107th St",2,0,N/A
+"April 30, 2018",Florida,Miami,"SW 219th St and 113th Ave",1,0,N/A
+"April 30, 2018",Florida,"North Port","Hyde Park and Jeffrey Ave",1,0,N/A
+"April 30, 2018",Iowa,Moorland,"2300 block of Carter Ave",1,0,N/A
+"April 30, 2018",Texas,Houston,"442 W Little York Rd",2,0,N/A
+"April 29, 2018",Washington,"Seattle (Skyway)","12603 Renton Ave S",2,2,N/A
+"April 29, 2018",Louisiana,Shreveport,"3161 N Market St",1,0,N/A
+"April 29, 2018",Mississippi,Natchez,"6 St Catherine St",1,0,N/A
+"April 29, 2018",Texas,Houston,"7930 Corporate Dr",2,1,N/A
+"April 29, 2018","North Carolina",Monroe,"1500 block of Massey St",1,3,N/A
+"April 29, 2018",Mississippi,Jackson,"Montebello Drive",1,0,N/A
+"April 29, 2018",Mississippi,"Horn Lake","6100 block of Goodman Road",1,1,N/A
+"April 29, 2018",California,"San Diego","Affinity Ct",1,0,N/A
+"April 29, 2018",Virginia,"Newport News","900 block of 37th St",1,0,N/A
+"April 29, 2018",California,Albany,"600 block of Masonic Ave",1,0,N/A
+"April 29, 2018",Wisconsin,Columbus,"505 S Birdsey St",1,0,N/A
+"April 29, 2018",Georgia,Columbus,"1545 Alta Vista Dr",1,0,N/A
+"April 29, 2018",Michigan,Detroit,"12900 block of Rutherford St",1,0,N/A
+"April 29, 2018",Michigan,Holland,"13000 block of Westland Ct",3,0,N/A
+"April 29, 2018",Florida,Orlando,"Briarmoor Ct",2,0,N/A
+"April 29, 2018","North Carolina","Lumber Bridge","Shannon Rd and Old Wire Rd",1,1,N/A
+"April 29, 2018","North Carolina",Franklin,"164 Pheasant Dr",1,0,N/A
+"April 29, 2018",Florida,"West Palm Beach","1969 S Military Trail",1,3,N/A
+"April 29, 2018","New Jersey","Colts Neck","NJ-18 North",1,1,N/A
+"April 29, 2018",Illinois,Chicago,"4800 block of W Monroe St",1,1,N/A
+"April 29, 2018",Florida,Miami,"SW 19th St and 19th Ave",1,0,N/A
+"April 29, 2018",Florida,Jacksonville,"1001 University Blvd N",1,0,N/A
+"April 29, 2018",Iowa,"Cedar Rapids (Bertram)","1200 block of Bertram St",1,1,N/A
+"April 29, 2018",Illinois,"Fox Lake","100 block of Eagle Point Road",1,0,N/A
+"April 29, 2018",Illinois,Elgin,"1 block of Longwood Pl",2,0,N/A
+"April 29, 2018",Nevada,"Las Vegas","2000 block of E Tonopah Ave",1,0,N/A
+"April 29, 2018",Virginia,"Richmond (North Chesterfield)","4800 Burnt Oak Dr",1,0,N/A
+"April 29, 2018",Pennsylvania,Dover,"N Salem Church Rd and W Canal Rd",1,0,N/A
+"April 29, 2018",Missouri,"Saint Louis","5900 block of Hamilton Terrace",1,0,N/A
+"April 29, 2018",Missouri,"Saint Louis","3500 block of Sugar Crest Drive",1,0,N/A
+"April 29, 2018",Missouri,"Saint Louis","601 Clark Ave",1,1,N/A
+"April 29, 2018",Kansas,Wichita,"2400 block of N Prince St",1,0,N/A
+"April 28, 2018",Mississippi,Starkville,"Highway 12",1,0,N/A
+"April 28, 2018",Washington,"Pe Ell","500 block of 3rd St",1,0,N/A
+"April 28, 2018",Mississippi,Sumrall,"Meredith Cir",1,0,N/A
+"April 28, 2018",California,"Elk Grove","2201 Longport Ct",1,0,N/A
+"April 28, 2018","South Dakota",Watertown,"600 block of E Kemp Ave",1,0,N/A
+"April 28, 2018",Wyoming,Jackson,"Elk Ridge Rd",1,0,N/A
+"April 28, 2018",Colorado,Denver,"11920 Washington St",1,0,N/A
+"April 28, 2018",Kentucky,Louisville,"1700 block of St. Louis Ave",1,0,N/A
+"April 28, 2018",Texas,"Texas City","3500 block of Palm Ave",1,1,N/A
+"April 28, 2018",Virginia,Lynchburg,"1100 block of 18th St",1,1,N/A
+"April 28, 2018",Alabama,Selma,"203 Highland Ave",1,2,N/A
+"April 28, 2018","South Carolina",Pickens,"100 Block of Sunny Ln",1,0,N/A
+"April 28, 2018","South Carolina","North Charleston","2311 Ashley Phosphate Rd",1,0,N/A
+"April 28, 2018",Missouri,Bridgeton,"Ayrshire Drive",1,2,N/A
+"April 28, 2018","South Carolina","North Augusta","310 W Hugh St",1,1,N/A
+"April 28, 2018",California,Bakersfield,"3100 block of Niles St",1,0,N/A
+"April 28, 2018",Georgia,Savannah,"2100 block of Louisiana Ave",1,0,N/A
+"April 28, 2018",Ohio,"Cincinnati (North College Hill)","1600 block of De Armand Ave",1,0,N/A
+"April 28, 2018",Wisconsin,Racine,"11th St and Grand Ave",1,0,N/A
+"April 28, 2018",Georgia,Columbus,"Winston Rd",1,0,N/A
+"April 28, 2018",Georgia,Augusta,"1800 block of Bertram Ct",1,0,N/A
+"April 28, 2018",Texas,Dallas,"202 S Jim Miller Rd",1,0,N/A
+"April 28, 2018",Michigan,"Ann Arbor","2201 Glencoe Hills Dr",1,0,N/A
+"April 28, 2018","New York",Rochester,"Sherwood Ave",1,0,N/A
+"April 28, 2018",Maryland,Baltimore,"Caroline St and Preston St",1,0,N/A
+"April 28, 2018",Maryland,Baltimore,"700 block of N Collington Ave",1,0,N/A
+"April 28, 2018","District of Columbia",Washington,"700 block of Gresham Pl",1,1,N/A
+"April 28, 2018",Arkansas,"West Memphis","1101 S Avalon St",1,0,N/A
+"April 28, 2018",Massachusetts,Boston,"39 Hartford St",1,0,N/A
+"April 28, 2018",Missouri,"Ozark (county)",N/A,1,0,N/A
+"April 28, 2018",California,Oceanside,"3100 block of Jacqueline Ln",1,2,N/A
+"April 28, 2018",Georgia,Atlanta,"1504 Bouldercrest Rd",1,0,N/A
+"April 28, 2018",Georgia,"Suwanee (Johns Creek)","Abbots Bridge Rd and Sweet Creek Rd",1,0,N/A
+"April 27, 2018",Missouri,"Kansas City","10615 Blue Ridge Blvd",1,0,N/A
+"April 27, 2018",Mississippi,Jackson,"Colonial Drive",1,0,N/A
+"April 27, 2018",Arizona,Nogales,"631 W Mesa Verde Dr",1,0,N/A
+"April 27, 2018",Nevada,"Las Vegas","Dramatic Way",1,1,N/A
+"April 27, 2018",Indiana,Boonville,"1699 Pelzer Rd",1,0,N/A
+"April 27, 2018",California,"Los Angeles","7730 S Western Ave",1,0,N/A
+"April 27, 2018",California,Azusa,"600 block of Glennfinnan Ave",1,0,N/A
+"April 27, 2018","New Mexico",Portales,"2400 block of S Ave I",1,0,N/A
+"April 27, 2018",Texas,Odessa,"9100 Andrews Hwy",1,0,N/A
+"April 27, 2018",Mississippi,Natchez,"Brenham St and Minor St",1,0,N/A
+"April 27, 2018","New Mexico",Albuquerque,"8300 Central Ave SE",1,0,N/A
+"April 27, 2018",Louisiana,"Baton Rouge","1800 block of Jade Ave",1,1,N/A
+"April 27, 2018",Mississippi,Brandon,"1222 Trickham Bridge Road",2,0,N/A
+"April 27, 2018",Tennessee,Lawrenceburg,"US 43",1,0,N/A
+"April 27, 2018",Kentucky,Weeksbury,"1900 KY 466",1,0,N/A
+"April 27, 2018",Florida,Lakeland,"1200 block of Unitah Ave",1,0,N/A
+"April 27, 2018",Georgia,Marietta,"700 block of Franklin Gateway",1,0,N/A
+"April 27, 2018",Illinois,"Park Forest","100 block of Algonquin St",1,1,N/A
+"April 27, 2018",Illinois,Chicago,"600 block of W 63rd St",1,0,N/A
+"April 27, 2018",Florida,"Fort Pierce","501 Bethany Ct",2,0,N/A
+"April 27, 2018","North Carolina",Albemarle,"Clover Ln",1,0,N/A
+"April 27, 2018",Illinois,Chicago,"8300 block of S Marshfield Ave",1,0,N/A
+"April 27, 2018",Pennsylvania,Philadelphia,"200 block of Stenton Ave",1,0,N/A
+"April 27, 2018",Iowa,"Des Moines","E 30th St and Garfield Ave",1,0,N/A
+"April 27, 2018",Colorado,Rifle,"1000 Airport Rd",1,0,N/A
+"April 27, 2018",Georgia,Marietta,"1700 block of Bells Ferry Rd",1,0,N/A
+"April 27, 2018","South Carolina",Hanahan,"Belvedere Dr",1,0,N/A
+"April 27, 2018",Missouri,"Saint Louis","4900 block of Chippewa St",1,0,N/A
+"April 27, 2018",Missouri,"Saint Louis","4400 block of Red Bud Ave",1,0,N/A
+"April 26, 2018",Maryland,Baltimore,"2900 block of Belmont Ave",1,0,N/A
+"April 26, 2018",Arizona,"El Mirage","Dysart Rd and Cactus Rd",1,1,N/A
+"April 26, 2018",Texas,Houston,"9802 Gulf Fwy",1,0,N/A
+"April 26, 2018",Georgia,Ellijay,"Ridgemont Dr",1,0,N/A
+"April 26, 2018","North Carolina",Fayetteville,"6500 block of St Louis St",1,1,N/A
+"April 26, 2018","North Carolina",Durham,"1908 Torredge Rd",1,0,N/A
+"April 26, 2018",California,"Moreno Valley","27000 block of Auburn Ln",2,0,N/A
+"April 26, 2018",Florida,Ocala,"7900 block of NW 39th Ave Rd",1,0,N/A
+"April 26, 2018",Kentucky,Winchester,"2655 Two Mile Road",2,0,N/A
+"April 26, 2018",California,Palermo,"2100 block of Stanley Dr",1,0,N/A
+"April 26, 2018",Alabama,Tuscaloosa,"11000 block of Oak Arbor Way",1,1,N/A
+"April 26, 2018",Pennsylvania,Allentown,"315 W Linden St",1,0,N/A
+"April 26, 2018",Kentucky,Louisville,"600 block of S 39th St",1,0,N/A
+"April 26, 2018",Texas,Houston,"11810 Chimney Rock Rd",2,0,N/A
+"April 26, 2018",California,Lancaster,"Munz Ranch Rd",2,0,N/A
+"April 26, 2018",California,Olivehurst,"6th Ave",1,0,N/A
+"April 26, 2018","New York",Bronx,"1728 Crotona Park E",1,1,N/A
+"April 26, 2018",Ohio,Cleveland,"3400 block of E 119th St",1,0,N/A
+"April 26, 2018","New Jersey",Newark,"S 20th St",1,0,N/A
+"April 26, 2018",Illinois,Matteson,"21600 block of S Cicero Ave",1,0,N/A
+"April 26, 2018",Maryland,Baltimore,"2600 block of Shirley Ave",1,0,N/A
+"April 26, 2018",Minnesota,Minneapolis,"1900 block of Newton Ave N",1,0,N/A
+"April 26, 2018",Illinois,Chicago,"1500 block of N Washtenaw Ave",1,0,N/A
+"April 26, 2018",Illinois,Chicago,"4300 block of W Adams St",1,0,N/A
+"April 26, 2018",Texas,"San Antonio","4848 Goldfield Dr",1,0,N/A
+"April 26, 2018",Arkansas,"Pine Bluff","700 block of Pullen St",1,0,N/A
+"April 26, 2018","South Carolina",Columbia,"400 block of Crane Creek Drive",1,0,N/A
+"April 26, 2018",Missouri,"Saint Louis","Goodfellow Blvd and Natural Bridge Ave",1,0,N/A
+"April 26, 2018",Texas,Vernon,"US 287",1,0,N/A
+"April 25, 2018",Georgia,Chester,"1169 Chester-Alamo Highway",2,0,N/A
+"April 25, 2018",Illinois,Normal,"1444 E College Ave",2,0,N/A
+"April 25, 2018",Indiana,Lafontaine,"123 Clear Creek Dr",1,0,N/A
+"April 25, 2018",Colorado,"Colorado Springs","1006 N 19th St",1,0,N/A
+"April 25, 2018",Texas,Dallas,"4999 S Buckner Blvd",1,0,N/A
+"April 25, 2018",Pennsylvania,Homestead,"E Park Way and West St",1,0,N/A
+"April 25, 2018",Texas,Plano,"5401 Independence Pkwy",1,0,N/A
+"April 25, 2018",Louisiana,"New Orleans (Harahan)","W Imperial Dr",1,0,N/A
+"April 25, 2018",Georgia,Macon,"3670 Bloomfield Dr",2,0,N/A
+"April 25, 2018",Alabama,Mobile,"Dr. Martin Luther King Jr Avenue and N Lafayette Street",1,1,N/A
+"April 25, 2018",Arkansas,Jonesboro,"828 S Caraway Rd",1,0,N/A
+"April 25, 2018",Florida,Ocala,"3341 SE 4th St",1,0,N/A
+"April 25, 2018",Ohio,Toledo,"1400 block of Maplewood Ave",1,0,N/A
+"April 25, 2018","District of Columbia",Washington,"400 block of 61st St NE",2,0,N/A
+"April 25, 2018",Maine,Norridgewock,"3 Waterville Rd",1,0,N/A
+"April 25, 2018",Illinois,Chicago,"2900 block of S Shields Ave",1,0,N/A
+"April 25, 2018",Florida,Jacksonville,"8200 block of Merivale Rd",1,0,N/A
+"April 25, 2018",Illinois,Chicago,"7400 block of S Phillips Ave",1,0,N/A
+"April 25, 2018",Illinois,Chicago,"4800 block of W Monroe St",1,0,N/A
+"April 25, 2018",Texas,"San Antonio","3900 block of SE Military Dr",2,0,N/A
+"April 25, 2018",Kentucky,Louisville,"400 block of North 42nd Street",1,0,N/A
+"April 25, 2018",Maryland,Woodstock,"10600 block of Davis Ave",2,0,N/A
+"April 25, 2018","New Jersey",Newark,"900 block of Bergen St",2,0,N/A
+"April 25, 2018",Colorado,Denver,"E Colfax Ave and Quebec St",1,0,N/A
+"April 25, 2018",Montana,"Hungry Horse",N/A,1,0,N/A
+"April 25, 2018",Missouri,"Saint Louis (Spanish Lake)","1151 Northdale Drive",3,1,N/A
+"April 25, 2018","North Carolina","Cedar Grove","5100 block of Eno Cemetery Road",1,0,N/A
+"April 24, 2018",Texas,Dallas,"11600 Forest Central Dr",1,2,N/A
+"April 24, 2018",Pennsylvania,"Bryn Mawr","43 Lowrys Ln",2,0,N/A
+"April 24, 2018",Tennessee,"Johnson City","114 W Poplar St",2,0,N/A
+"April 24, 2018",Tennessee,Memphis,"3700 block of Hermitage Dr",1,0,N/A
+"April 24, 2018",Texas,Madisonville,"101 N May St",1,0,N/A
+"April 24, 2018",Missouri,"Kansas City","9th St and Brooklyn Ave",1,0,N/A
+"April 24, 2018",Missouri,"Saint Louis","4200 block of N Grand Ave",1,0,N/A
+"April 24, 2018",Illinois,Chicago,"5100 block of W Chicago Ave",1,0,N/A
+"April 24, 2018",California,"San Diego","Olivewood Ter",1,0,N/A
+"April 24, 2018",California,Sacramento,"1800 block of Del Paso Blvd",1,1,N/A
+"April 24, 2018",California,"Los Angeles","700 block of 154th St",1,0,N/A
+"April 24, 2018",California,Wasco,"1900 block of 4th St",1,0,N/A
+"April 24, 2018",Louisiana,Georgetown,"US Highway 165",1,0,N/A
+"April 24, 2018",Louisiana,"New Orleans","Yorktown Drive and Middleboro Road",1,0,N/A
+"April 24, 2018",Alabama,Mobile,"Driftwood Dr N",1,0,N/A
+"April 24, 2018",Pennsylvania,York,"100 block of E Maple St",1,1,N/A
+"April 24, 2018",Alabama,Birmingham,"4016 37th Ave N",1,0,N/A
+"April 24, 2018",Louisiana,"New Orleans","1500 block of Franklin Ave",1,0,N/A
+"April 24, 2018",Kentucky,Louisville,"500 block of 29th Street",1,0,N/A
+"April 24, 2018",Texas,Vidor,"100 block of Alamo St",1,0,N/A
+"April 24, 2018",Illinois,Chicago,"3800 block of W Roosevelt Rd",1,0,N/A
+"April 24, 2018",Ohio,Cleveland,"18314 Euclid Ave",1,0,N/A
+"April 24, 2018",Illinois,Chicago,"12100 block of S Stewart Ave",1,0,N/A
+"April 24, 2018",Pennsylvania,York,"Park St and Park Pl",1,0,N/A
+"April 24, 2018",Minnesota,"Saint Paul (Apple Valley)","8700 block of Hunters Way",1,0,N/A
+"April 24, 2018",Texas,Garland,"3200 block of Buckingham Rd",1,0,N/A
+"April 24, 2018",Texas,Amarillo,"4100 block of Harmony St",1,0,N/A
+"April 24, 2018",Maryland,Laurel,"15800 block of Millbrook Ln",1,0,N/A
+"April 24, 2018",Texas,"San Antonio","100 E Houston St",1,0,N/A
+"April 24, 2018","South Carolina",Loris,"Church St and Spring St",1,1,N/A
+"April 24, 2018","New York","New York (Manhattan)","60 E 104th St",1,0,N/A
+"April 24, 2018",Kentucky,Irvine,"1420 Pryse Rd",1,0,N/A
+"April 24, 2018",Washington,Yakima,N/A,1,0,N/A
+"April 23, 2018",Texas,Killeen,"800 block of Root Ave",1,0,N/A
+"April 23, 2018",Texas,"Grand Prairie","1000 Ikea Way",1,0,N/A
+"April 23, 2018",Tennessee,Knoxville,"1108 Amber Glades Ln",1,0,N/A
+"April 23, 2018",Indiana,Indianapolis,"E 38th St and N Franklin Rd",1,0,N/A
+"April 23, 2018",Kentucky,Louisville,"10502 Southern Meadows Dr",1,0,N/A
+"April 23, 2018",California,Bakersfield,"Pioneer Dr",1,0,N/A
+"April 23, 2018",California,Loleta,US-101,1,0,N/A
+"April 23, 2018",Missouri,Bunker,N/A,1,0,N/A
+"April 23, 2018",Florida,"West Palm Beach","2845 N Military Trl",1,0,N/A
+"April 23, 2018",Louisiana,Arnaudville,"Orphe Guidry Rd",1,0,N/A
+"April 23, 2018",Nevada,"Las Vegas","9700 block of Powell Plateau Ct",1,0,N/A
+"April 23, 2018",Arizona,"Peach Springs","115 Mile Marker AZ-66",1,0,N/A
+"April 23, 2018","New Mexico","Las Cruces","Athenian Way",1,0,N/A
+"April 23, 2018",Arizona,Phoenix,"W Van Buren St and N 64th Dr",1,0,N/A
+"April 23, 2018",Ohio,Streetsboro,"900 block of Alden Dr",1,0,N/A
+"April 23, 2018",Pennsylvania,Philadelphia,"4400 block of Germantown Ave",1,0,N/A
+"April 23, 2018","New York",Bronx,"Lafayette Ave and Boynton Ave",1,0,N/A
+"April 23, 2018","New York",Syracuse,"160 Hudson St",1,0,N/A
+"April 23, 2018",Massachusetts,Springfield,"Worthington St and Federal St",1,0,N/A
+"April 22, 2018",Illinois,Chicago,"1300 block of N Kildare Ave",1,0,N/A
+"April 22, 2018",California,Oxnard,"2900 block of Ocean Dr",1,0,N/A
+"April 22, 2018",Oklahoma,Tulsa,"12200 block of E 38th Pl",2,0,N/A
+"April 22, 2018","New York",Syracuse,"415 Cortland Ave",1,0,N/A
+"April 22, 2018",Kentucky,Lexington,"300 block of Corral Street",1,0,N/A
+"April 22, 2018",California,"Union City","4300 block of Feldspar Ct",1,0,N/A
+"April 22, 2018",Colorado,"Colorado Springs","6875 Space Village Ave",1,0,N/A
+"April 22, 2018",California,Modesto,"1800 block of Rancho Encantado",3,0,N/A
+"April 22, 2018",Alabama,Birmingham,"1412 36th St N",1,0,N/A
+"April 22, 2018",Texas,Houston,"2725 Reed Rd",1,0,N/A
+"April 22, 2018","North Carolina",Monroe,"611 W Roosevelt Blvd",1,3,N/A
+"April 22, 2018",Oklahoma,Jenks,"N Birch St and W F St",1,0,N/A
+"April 22, 2018",Louisiana,Paradis,"100 block of Lynn Dr",1,1,N/A
+"April 22, 2018",California,Victorville,"13000 block of High Crest St",1,0,N/A
+"April 22, 2018",Alabama,Montgomery,"3200 block of Mobile Highway",1,0,N/A
+"April 22, 2018","West Virginia",Morgantown,"Stewartstown Rd",1,0,N/A
+"April 22, 2018","North Carolina",Henderson,"Brunswick Ln",1,0,N/A
+"April 22, 2018","New York",Brooklyn,"Hendrix St and Sutter Ave",1,0,N/A
+"April 22, 2018",Tennessee,Antioch,"3571 Murfreesboro Pike",4,3,N/A
+"April 22, 2018",Arkansas,Trumann,"512 Industrial Park Dr",1,0,N/A
+"April 22, 2018",Texas,"San Antonio","535 W Hutchins Place",1,0,N/A
+"April 22, 2018",Missouri,"Saint Louis","5200 block of Gilmore Ave",1,0,N/A
+"April 22, 2018",Louisiana,Duson,I-10,1,0,N/A
+"April 22, 2018",Oklahoma,Bessie,"404 7th St",2,0,N/A
+"April 22, 2018",Ohio,Bellevue,"Fairfield Ave",1,0,N/A
+"April 22, 2018",Illinois,Chicago,"3300 block of W Hollywood Ave",1,0,N/A
+"April 22, 2018",Louisiana,"New Orleans","1900 block of St Roch Ave",1,5,N/A
+"April 22, 2018",Ohio,Cincinnati,"1500 block of Crest Hill Avenue",1,0,N/A
+"April 22, 2018",Kentucky,Louisville,"3425 Bardstown Rd",2,0,N/A
+"April 22, 2018",Florida,Orlando,"2200 Americana Blvd",1,0,N/A
+"April 22, 2018",Florida,Gainesville,"2824 NE 12th St",1,0,N/A
+"April 22, 2018",Maryland,Baltimore,"1200 block of Whitelock St",1,0,N/A
+"April 22, 2018",Colorado,"Colorado Springs","5150 Airport Rd",1,1,N/A
+"April 22, 2018",California,Bakersfield,"1300 block of Santiago Ct",1,1,N/A
+"April 22, 2018","New York",Moriah,"2787 Center Rd",1,0,N/A
+"April 22, 2018","New Jersey",Edison,"Loeb Ct",2,0,N/A
+"April 22, 2018","New York",Bronx,"700 Morris Ave",1,0,N/A
+"April 22, 2018",Michigan,Muskegon,"300 block of Merrill Ave",2,1,N/A
+"April 22, 2018",Illinois,"Calumet City","1300 block of Mackinaw Ave",1,0,N/A
+"April 22, 2018",Maine,Litchfield,"Hallowell Rd",1,0,N/A
+"April 22, 2018",Alabama,Anniston,"500 Glen Addie Ave",1,0,N/A
+"April 22, 2018",Washington,"Seattle (Ballard)","4900 block of Leary Ave",1,0,N/A
+"April 22, 2018",Missouri,"Saint Louis (Berkeley)","8360 Airport Rd",1,1,N/A
+"April 21, 2018",Colorado,Loveland,"Eagle Dr and SW 10th St",1,0,N/A
+"April 21, 2018",Oklahoma,Lawton,"500 block of NW 3rd St",1,1,N/A
+"April 21, 2018",Oklahoma,"Oklahoma City (Del City)","SE 27th St and Glenn Ave",1,0,N/A
+"April 21, 2018",Colorado,"Colorado Springs","Lower Gold Camp Rd and S 21st St",2,0,N/A
+"April 21, 2018","New Mexico",Albuquerque,N/A,1,0,N/A
+"April 21, 2018","New York",Rochester,"Sidney St",1,0,N/A
+"April 21, 2018",Arizona,Phoenix,"8249 W Indian School Rd",1,0,N/A
+"April 21, 2018",Georgia,"Flowery Branch","130 TreePark Cir",1,0,N/A
+"April 21, 2018",Ohio,Columbus,"1100 block of Aberdeen Ave",2,0,N/A
+"April 21, 2018",Illinois,Chicago,"W Jackson Blvd and S Lotus Ave",1,1,N/A
+"April 21, 2018",California,"Los Angeles","6200 block of S Figueroa",1,1,N/A
+"April 21, 2018",Iowa,Boone,"620 2ndSt",1,0,N/A
+"April 21, 2018","North Carolina",Asheville,"Wilbar Ave",1,1,N/A
+"April 21, 2018",Pennsylvania,Meyersdale,"252 Cabin Rd",1,0,N/A
+"April 21, 2018",California,Compton,"12400 block of Grandee Ave",1,1,N/A
+"April 21, 2018",Texas,Houston,"3985 W Fuqua St",2,0,N/A
+"April 21, 2018",Mississippi,Brookhaven,"1203 Smith Lake Road",1,0,N/A
+"April 21, 2018",Tennessee,Memphis,"500 block of King Rd",1,0,N/A
+"April 21, 2018",Tennessee,Memphis,"Summer Ave and Berclair Rd",1,2,N/A
+"April 21, 2018",Illinois,Chicago,"6600 block of S Evans Ave",1,2,N/A
+"April 21, 2018",Utah,Provo,"1400 500 N",1,1,N/A
+"April 21, 2018","North Carolina",Salisbury,"1812 E Innes St",1,0,N/A
+"April 21, 2018",Florida,Deltona,"Corrigan Dr",1,0,N/A
+"April 21, 2018","North Carolina",Thomasville,"260 Twin Lakes Dr",1,1,N/A
+"April 21, 2018",Pennsylvania,Philadelphia,"1800 block of W Diamond St",2,2,N/A
+"April 21, 2018",Ohio,Dayton,"1832 Lakeview Avenue",2,0,N/A
+"April 21, 2018",Wisconsin,Milwaukee,"2900 block of N 18th St",1,0,N/A
+"April 21, 2018",Florida,"Bonita Springs","Matheson Ave and Goodwin St",1,0,N/A
+"April 21, 2018",Illinois,Chicago,"9400 block of S Wabash Ave",1,1,N/A
+"April 21, 2018",Maryland,Baltimore,"6100 block of Fortview Way",1,0,N/A
+"April 21, 2018",Texas,"San Antonio","400 block of Arthur St",1,0,N/A
+"April 21, 2018","New York",Syracuse,"313 Hoefler St",1,0,N/A
+"April 21, 2018",Texas,"San Antonio","1000 block of Poteet Jourdanton Fwy",1,1,N/A
+"April 21, 2018",Maryland,Elkton,"17 Chesnut Dr",1,2,N/A
+"April 21, 2018",Texas,Dimmitt,"CR 510",1,0,N/A
+"April 21, 2018",Georgia,Atlanta,"633 Parkway Drive",1,1,N/A
+"April 21, 2018",Massachusetts,Springfield,"56 Maple Ct",1,0,N/A
+"April 21, 2018","New Mexico",Portales,"929 E Second St",1,0,N/A
+"April 21, 2018",Texas,"Fort Worth","4301 Old Decatur Rd",1,0,N/A
+"April 21, 2018",Ohio,Columbus,"1 block of Wisconsin Ave",1,0,N/A
+"April 20, 2018",Illinois,Mackinaw,"34000 block of IL-9",1,0,N/A
+"April 20, 2018",Texas,Mckinney,"7500 block of Fossil Creek Tr",1,0,N/A
+"April 20, 2018",Washington,"Port Orchard","12000 block of Triviere Trail",1,0,N/A
+"April 20, 2018",Georgia,Columbus,"1312 Gazebo Way",1,0,N/A
+"April 20, 2018","New Mexico",Albuquerque,"900 block of Gemstone Rd SW",1,1,N/A
+"April 20, 2018",Kentucky,Hinkle,"Hinkle Branch Road",1,0,N/A
+"April 20, 2018",California,"San Francisco","3rd Street and Quesada Ave",1,5,N/A
+"April 20, 2018",Pennsylvania,Chester,"1100 block of Clover Ln",1,0,N/A
+"April 20, 2018",California,Watsonville,"CA-129 and Industrial Rd",1,0,N/A
+"April 20, 2018",Florida,Sanford,"2407 Decottes Ave",1,0,N/A
+"April 20, 2018",Virginia,Norfolk,"7900 block of Thompson Rd",1,0,N/A
+"April 20, 2018",Ohio,Wickliffe,"28611 Euclid Avenue",1,0,N/A
+"April 20, 2018",Ohio,Canton,"1200 block of 20th St NE",1,0,N/A
+"April 20, 2018",California,Foresthill,"Foresthill Rd",1,0,N/A
+"April 20, 2018",Wisconsin,Manitowoc,"903 S 11th St",1,0,N/A
+"April 20, 2018",Indiana,Bedford,"811 Constitution Ave",1,0,N/A
+"April 20, 2018",Florida,"Vero Beach","4400 block of 25th Ave",1,0,N/A
+"April 20, 2018","North Carolina",Charlotte,"1500 block of Wembley Dr",1,0,N/A
+"April 20, 2018",Arizona,Peoria,"9804 W Northern Ave",1,0,N/A
+"April 20, 2018","South Carolina",Greenville,"Easterlin Way",1,0,N/A
+"April 20, 2018","North Carolina",Greensboro,"3300 block of Beck St",1,0,N/A
+"April 20, 2018",Texas,Dallas,"Martin Luther King Jr Blvd and S Harwood St",1,0,N/A
+"April 20, 2018",Florida,Largo,"16321 Bolesta Rd",1,0,N/A
+"April 20, 2018",Texas,Huffman,"400 block of Fir Ridge Dr",1,0,N/A
+"April 20, 2018",Maryland,Baltimore,"1500 block of Madison Ave",1,0,N/A
+"April 20, 2018",Virginia,Richmond,"300 block of Melmark Court",1,0,N/A
+"April 20, 2018",Florida,Orlando,"1013 W Michigan St",1,0,N/A
+"April 20, 2018",Texas,Dallas,"600 block of Edgedale Dr",1,0,N/A
+"April 20, 2018",Minnesota,Sawyer,"4020 Kari Rd",1,2,N/A
+"April 20, 2018","New York",Malone,"344 Old Meacham Rd",1,0,N/A
+"April 20, 2018","New York",Bronx,"500 Abbott St",1,0,N/A
+"April 20, 2018",Alaska,Fairbanks,"419 4th Ave",1,0,N/A
+"April 20, 2018",Nevada,"Las Vegas","3790 Hazelwood St",1,0,N/A
+"April 20, 2018",Missouri,"Lees Summit","601 NW Murray Rd",2,0,N/A
+"April 20, 2018",Texas,"San Antonio","748 Hot Wells Blvd",1,0,N/A
+"April 19, 2018",Texas,Austin,"1100 block of Poquito St",1,1,N/A
+"April 19, 2018",Colorado,Denver,"E 37th Ave and Elizabeth St",1,0,N/A
+"April 19, 2018","New Mexico",Albuquerque,"1000 block of 4th St SW",1,1,N/A
+"April 19, 2018",Michigan,"Madison Heights","29328 Tawas St",1,0,N/A
+"April 19, 2018",Michigan,Inkster,"3754 Fox St",2,0,N/A
+"April 19, 2018",Ohio,Xenia,"4550 US-68",1,0,N/A
+"April 19, 2018",California,Richmond,"800 Carlson Blvd",1,1,N/A
+"April 19, 2018",Maryland,Waldorf,"11500 block of Shearwater Dr",1,0,N/A
+"April 19, 2018",Tennessee,Kingsport,"524 Stapleton Dr",1,0,N/A
+"April 19, 2018",Virginia,Richmond,"435 German School Rd",1,0,N/A
+"April 19, 2018",Virginia,"Virginia Beach","600 block of Newtown Rd",1,0,N/A
+"April 19, 2018",Indiana,Indianapolis,"1200 block of Manhattan Ave",1,2,N/A
+"April 19, 2018",Maryland,Baltimore,"1700 block of N Regester St",1,1,N/A
+"April 19, 2018",Florida,Trenton,"1122 E Wade St",3,0,N/A
+"April 19, 2018",Michigan,Detroit,"15400 block of Steel St",1,0,N/A
+"April 19, 2018",Michigan,Detroit,"16200 block of Mark Twain St",1,0,N/A
+"April 19, 2018",Florida,Windermere,"2721 Ingeborg Ct",2,0,N/A
+"April 19, 2018",Missouri,Independence,"S Oxford Ave and E Independence Ave",1,0,N/A
+"April 19, 2018",Illinois,Chicago,"9200 block of S Dauphine Ave",1,0,N/A
+"April 19, 2018",Maryland,Hagerstown,"600 block of W Church St",1,0,N/A
+"April 19, 2018",Missouri,"Kansas City","Park Ave E and E 36th St",1,0,N/A
+"April 18, 2018",Texas,Dallas,"2500 block of Healey Dr",1,0,N/A
+"April 18, 2018",Missouri,Springfield,"9400 block of E State Hwy YY",1,0,N/A
+"April 18, 2018",Georgia,Douglasville,"8470 Earl D Lee Blvd",1,0,N/A
+"April 18, 2018",Nebraska,Omaha,"6304 N 99th St",1,0,N/A
+"April 18, 2018",Tennessee,Englewood,"TN 39",1,0,N/A
+"April 18, 2018",California,Oakland,"1400 block of 7th St",1,1,N/A
+"April 18, 2018",Arizona,Tucson,"6555 E Speedway Blvd",1,0,N/A
+"April 18, 2018",Florida,"Fort Lauderdale","900 block of W Sunrise Blvd",1,0,N/A
+"April 18, 2018",Arkansas,"Little Rock",AR-110,1,0,N/A
+"April 18, 2018",Mississippi,Jackson,"University Boulevard and Winter Street",1,0,N/A
+"April 18, 2018","South Carolina",Hartsville,"700 block of 8th Street",1,0,N/A
+"April 18, 2018","North Carolina",Rockingham,"Maner Rd",1,2,N/A
+"April 18, 2018",Indiana,Gary,"401 W Ridge Road",1,0,N/A
+"April 18, 2018",Indiana,Oaktown,"3300 block of E Cardinal Rd",1,1,N/A
+"April 18, 2018","New York",Brooklyn,"175 Hart St",1,0,N/A
+"April 18, 2018",Ohio,"Dayton (Trotwood)","40 Pinewood Cir",2,0,N/A
+"April 18, 2018",Georgia,"Social Circle","Knox Chapel Rd",1,1,N/A
+"April 18, 2018",Louisiana,"New Orleans","3901 Behrman Hwy",1,0,N/A
+"April 18, 2018",Louisiana,"New Orleans","S Claiborne Ave and 1st St",1,0,N/A
+"April 18, 2018",Louisiana,"New Orleans","3600 block of South Roman Street",1,1,N/A
+"April 18, 2018","North Carolina",Asheville,"73 Hansel Ave",4,3,N/A
+"April 18, 2018",Texas,"San Antonio","3903 Eisenhauer Rd",1,0,N/A
+"April 18, 2018",Illinois,Chicago,"3800 block of W Lexington St",1,0,N/A
+"April 18, 2018",Michigan,Kalamazoo,"6830 E N Ave",1,0,N/A
+"April 18, 2018",Maryland,Baltimore,"700 block of E 43rd St",1,0,N/A
+"April 18, 2018",Maryland,Baltimore,"1900 block of Penrose St",1,0,N/A
+"April 18, 2018",Maryland,Baltimore,"1000 block of W Lombard St",1,0,N/A
+"April 18, 2018",Maryland,"Lexington Park","21000 block of Liberty St",1,0,N/A
+"April 18, 2018",Texas,"San Antonio","7030 Valley Trails",1,0,N/A
+"April 18, 2018",Texas,Harlingen,"600 block of North B Street",2,1,N/A
+"April 18, 2018",Utah,"Salt Lake City","1132 E Princeton Ave",1,0,N/A
+"April 17, 2018",Oklahoma,Tishomingo,"1400 block of N Elks Rd",1,0,N/A
+"April 17, 2018",California,Inglewood,"1100 N La Brea Ave #100",2,1,N/A
+"April 17, 2018",Nebraska,Filley,N/A,1,0,N/A
+"April 17, 2018",Missouri,Marshfield,"Pleasant Church Rd",2,1,N/A
+"April 17, 2018",Kansas,Wichita,"2900 block of S Sayles",1,0,N/A
+"April 17, 2018",Utah,Magna,"8400 W 2700 S",1,0,N/A
+"April 17, 2018",Georgia,Austell,"95 S Service Rd",1,0,N/A
+"April 17, 2018","New Jersey",Linden,"1832 E Georges Ave",1,0,N/A
+"April 17, 2018",Texas,"Wichita Falls","1400 block of Gladiolous St",1,0,N/A
+"April 17, 2018",Florida,Plantation,"9000 NW 9th St",1,0,N/A
+"April 17, 2018","North Carolina","High Point","1908 Franklin Ave",2,0,N/A
+"April 17, 2018",California,Burbank,"1300 block of Varney Street",3,0,N/A
+"April 17, 2018",California,Stockton,"4100 block of Colfax Ct",1,0,N/A
+"April 17, 2018",Mississippi,Jackson,"4573 Bullard St",1,0,N/A
+"April 17, 2018",Ohio,Cleveland,"12100 block of Emery Ave",1,0,N/A
+"April 17, 2018",Louisiana,Abbeville,"200 block of Vermilion Street",1,0,N/A
+"April 17, 2018","West Virginia",Beckley,"W Neville St and Pike St",1,0,N/A
+"April 17, 2018",Kentucky,Burkesville,"Lawsons Bottom Rd",1,0,N/A
+"April 17, 2018",Pennsylvania,Connellsville,"300 block of Hill St",2,1,N/A
+"April 17, 2018",Arizona,Phoenix,"7th St and Northern Ave",1,0,N/A
+"April 17, 2018",Arkansas,Russellville,"1300 block of Shiloh Rd",2,0,N/A
+"April 17, 2018","New York",Bronx,"3836 White Plains Rd",1,1,N/A
+"April 17, 2018",Georgia,Riverdale,"Brookview Dr",1,0,N/A
+"April 17, 2018",Illinois,Chicago,"200 block of W 87th St",1,1,N/A
+"April 17, 2018",Wisconsin,Milwaukee,"S 22nd St and W Orchard St",1,0,N/A
+"April 17, 2018",Florida,"Pompano Beach","900 block of NE 24th Ave",1,0,N/A
+"April 17, 2018",Indiana,Gary,"1400 block of E 35th Pl",1,1,N/A
+"April 17, 2018",Texas,Austin,"412 E William Cannon Dr",1,0,N/A
+"April 17, 2018",Maryland,Baltimore,"800 block of Herndon Ct",1,0,N/A
+"April 17, 2018",Kansas,Wichita,"3850 S Meridian",1,0,N/A
+"April 17, 2018",Alabama,"Phenix City","1500 block of 11th Ave",1,0,N/A
+"April 16, 2018",Georgia,Atlanta,N/A,1,0,N/A
+"April 16, 2018",Mississippi,Canton,"Walnut St",1,1,N/A
+"April 16, 2018",Missouri,"Kansas City","E 40th St and Garfield Ave",1,0,N/A
+"April 16, 2018","New Jersey","Jersey City","New Hope Ln and Peace Dr",1,0,N/A
+"April 16, 2018",Illinois,Chicago,"1400 block of W Garfield Blvd",1,1,N/A
+"April 16, 2018",Pennsylvania,Philadelphia,"2200 block of Cantrell Ave",1,0,N/A
+"April 16, 2018",Illinois,Chicago,"3600 block of W Cortland St",2,0,N/A
+"April 16, 2018","North Carolina",Raleigh,"4600 block of Dansey Dr",1,0,N/A
+"April 16, 2018",Georgia,"Union City","5700 block of Rock Rd",1,0,N/A
+"April 16, 2018",Kentucky,Waco,"4100 New Irvine Rd",1,0,N/A
+"April 16, 2018",Utah,Tremonton,"3625 W 1000 N",1,0,N/A
+"April 16, 2018",Tennessee,Memphis,"Spottswood Ave and Echles St",1,0,N/A
+"April 16, 2018",Tennessee,Memphis,"1200 block of Whitney Ave",1,0,N/A
+"April 16, 2018",Alabama,Holtville,"Fern Drive",1,0,N/A
+"April 16, 2018",Alabama,Birmingham,"Trenton Street",1,0,N/A
+"April 16, 2018",Virginia,Roanoke,"5000 block of King Arthur Ct NW",1,0,N/A
+"April 16, 2018",Kentucky,Louisville,"1000 block of Charles Street",1,0,N/A
+"April 16, 2018",Louisiana,"New Orleans","3600 block of Erato Street",1,0,N/A
+"April 16, 2018",Florida,Wildwood,"400 block of Terry St",1,0,N/A
+"April 16, 2018",Wisconsin,Milwaukee,"2400 block of W Monroe Ave",1,0,N/A
+"April 16, 2018",Ohio,Akron,"E Exchange St and Forrest Ct",1,0,N/A
+"April 16, 2018",Tennessee,Knoxville,"Bakertown Rd",1,0,N/A
+"April 16, 2018",Pennsylvania,Airville,"Furnace Rd and Bare Rd",1,0,N/A
+"April 16, 2018",Wisconsin,Milwaukee,"W Burnham St and S 12th St",1,0,N/A
+"April 16, 2018",Michigan,"Grand Rapids (Walker)","966 4 Mile Rd NW",1,0,N/A
+"April 16, 2018",Florida,"Fort Pierce","1000 block of N 31st St",1,1,N/A
+"April 16, 2018",Pennsylvania,Philadelphia,"444 N 4th St",1,0,N/A
+"April 16, 2018",Idaho,Ucon,"35th E and 113th N",1,0,N/A
+"April 16, 2018","North Carolina",Bakersville,"Odoms Chapel Rd",1,0,N/A
+"April 16, 2018",Maryland,Baltimore,"1700 block of E Federal St",2,0,N/A
+"April 16, 2018",Mississippi,"Corinth (Farmington)","4160 County Road 200",2,1,N/A
+"April 16, 2018",Iowa,Waukon,"537 4th St SE",1,0,N/A
+"April 16, 2018",Missouri,"Kansas City","Truman Road and Hardesty Ave",1,1,N/A
+"April 16, 2018",California,Visalia,"1400 block of W McHughes Ave",1,0,N/A
+"April 15, 2018",California,"Desert Hot Springs","74000 block of Dillon Rd",1,0,N/A
+"April 15, 2018","South Carolina",Sumter,"Peach St",1,0,N/A
+"April 15, 2018",Tennessee,Memphis,"3619 Kingsgate Dr",1,0,N/A
+"April 15, 2018",Missouri,"Saint Joseph","1114 Highly St",1,0,N/A
+"April 15, 2018",Arizona,Avondale,"El Mirage Rd and Lower Buckeye Rd",1,0,N/A
+"April 15, 2018",Indiana,"Fort Wayne","2700 block of Chestnut St",1,1,N/A
+"April 15, 2018",Missouri,"Saint Louis","5400 block of Gravois Ave",1,0,N/A
+"April 15, 2018","North Carolina",Greensboro,"1316 Maple St",1,0,N/A
+"April 15, 2018",Indiana,"Fort Wayne","2827 Fruehauf Dr",1,0,N/A
+"April 15, 2018",Texas,Houston,"11801 S Sam Houston Pkwy E",1,0,N/A
+"April 15, 2018",Tennessee,Lebanon,"921 Murfreesboro Rd",2,0,N/A
+"April 15, 2018",Pennsylvania,York,"S Duke St and E South St",1,0,N/A
+"April 15, 2018",Texas,Houston,"6111 Glenmont Drk Dr",1,2,N/A
+"April 15, 2018","North Carolina",Durham,"4600 block of Carlton Crossing Dr",1,1,N/A
+"April 15, 2018",Nevada,"Las Vegas","2601 East Sunset Rd",1,1,N/A
+"April 15, 2018",Pennsylvania,Philadelphia,"2643 W Sergeant St",1,1,N/A
+"April 15, 2018",Texas,Lancaster,"790 N I-35 E",1,1,N/A
+"April 15, 2018",California,Oakland,"2700 block of E 10th St",1,0,N/A
+"April 15, 2018",California,Oakland,"3449 Fruitvale Ave",1,1,N/A
+"April 15, 2018",California,Arvin,"700 block of Monroe St",1,0,N/A
+"April 15, 2018",Florida,Brandon,"612 W Lumsden Rd",1,0,N/A
+"April 15, 2018",Indiana,Gary,"4600 block of Van Buren St",1,0,N/A
+"April 15, 2018",Maryland,Baltimore,"500 block of Normandy Ave",1,0,N/A
+"April 15, 2018",Tennessee,Jackson,"2655 N Highland Ave",1,0,N/A
+"April 15, 2018","South Carolina",Bennettsville,"Windham St",1,0,N/A
+"April 15, 2018",Florida,Orlando,"200 block of Terry Ave",1,0,N/A
+"April 15, 2018","North Carolina",Charlotte,"3000 block of Timberbrook Dr",1,0,N/A
+"April 15, 2018",Florida,Miami,"NW 111th St and NW 14th Ave",2,1,N/A
+"April 15, 2018",Ohio,Columbus,"900 block of Rarig Ave",1,0,N/A
+"April 15, 2018",Ohio,Columbus,"500 block of S Terrace Ave",1,0,N/A
+"April 15, 2018",Florida,"Glen Saint Mary","9368 S Co Rd 125",1,2,N/A
+"April 15, 2018",Pennsylvania,Aliquippa,"207 5th Ave",1,0,N/A
+"April 15, 2018",Florida,Crestview,"1232 Northview Dr",1,0,N/A
+"April 15, 2018",Michigan,"Battle Creek","69 Merritt St",1,1,N/A
+"April 15, 2018",Illinois,Chicago,"100 block of N Lamon Ave",1,0,N/A
+"April 15, 2018",Pennsylvania,Lancaster,"216 E Liberty St",1,0,N/A
+"April 15, 2018",California,Ramona,"Wood Rock Ln",1,0,N/A
+"April 15, 2018",Oklahoma,Lawton,"NE 20th St",1,0,N/A
+"April 15, 2018",Hawaii,"Ewa Beach","91-1050 Kaileonui Dr",2,0,N/A
+"April 15, 2018",Missouri,Sedalia,"314 N Summit Ave",1,2,N/A
+"April 15, 2018",Montana,"Lodge Grass","S George St and Hesper Ave",1,0,N/A
+"April 14, 2018",Oregon,Salem,"444 Lancaster Dr NE",2,1,N/A
+"April 14, 2018",Missouri,"Kansas City","E 56th St and S Benton Ave",1,1,N/A
+"April 14, 2018","South Carolina",Lamar,"620 E Jackson St",1,0,N/A
+"April 14, 2018",Arizona,Phoenix,"Central Ave and Southern Ave",1,0,N/A
+"April 14, 2018","New Jersey",Camden,"900 block of N York St",1,1,N/A
+"April 14, 2018",Pennsylvania,Philadelphia,"5800 block of Woodbine Ave",1,0,N/A
+"April 14, 2018",Illinois,"East Saint Louis (Cahokia)","2913 Camp Jackson Rd",1,0,N/A
+"April 14, 2018",Alabama,Bessemer,"100 block of Deadrick Street",1,0,N/A
+"April 14, 2018",Alabama,Anniston,"2800 block of Gurnee Avenue",1,0,N/A
+"April 14, 2018",Massachusetts,Palmer,"311 River St",1,1,N/A
